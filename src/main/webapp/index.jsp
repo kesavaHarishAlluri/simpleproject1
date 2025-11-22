@@ -126,7 +126,6 @@
 <a href="#">Telugu</a>
 <a href="#">Hindi</a>
 <a href="#">English</a>
-<a href="#">harish</a>
 
     </div>
 </div>
