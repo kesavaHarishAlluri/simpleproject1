@@ -116,7 +116,7 @@
 
 <!-- NAVBAR -->
 <div class="navbar">
-    <div class="logo">MiniFlix</div>
+    <div class="logo">ibomma</div>
     <div class="nav-links">
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
